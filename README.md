@@ -1,14 +1,12 @@
-# express-static-files
+# Module 5 Communicating with a Remote Server 
 
-This repo contains the code for our post [Serve static files with Express](http://www.fullstacktraining.com/articles/how-to-serve-static-files-with-express).
+Lav en __Fork__ af projektet.
 
-The post covers how to set up Express to deliver static files to the browser - we're talking HTML, JavaScript, CSS and images.
+## Start serveren 
 
-## Running the repo
+*sørger for at Node.js & npm installeret*
 
-*Assumption: you already have Node.js and npm installed*
-
-After cloning the repo run the following in the command line:
+Efter kloning af projektet køre så følgende i CMD:
 
 1. ```npm install```
-2. ```node app.js```
+2. ```npm start```
